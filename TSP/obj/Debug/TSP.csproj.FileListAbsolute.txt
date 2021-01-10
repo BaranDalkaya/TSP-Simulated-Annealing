@@ -1,0 +1,6 @@
+/Users/Baran/Projects/TSP/TSP/bin/Debug/TSP.exe
+/Users/Baran/Projects/TSP/TSP/bin/Debug/TSP.pdb
+/Users/Baran/Projects/TSP/TSP/obj/Debug/TSP.csprojAssemblyReference.cache
+/Users/Baran/Projects/TSP/TSP/obj/Debug/TSP.csproj.CoreCompileInputs.cache
+/Users/Baran/Projects/TSP/TSP/obj/Debug/TSP.exe
+/Users/Baran/Projects/TSP/TSP/obj/Debug/TSP.pdb
